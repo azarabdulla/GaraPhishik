@@ -2,7 +2,7 @@
 ## Author: github.com/azarabdulla
 ![gthub](https://user-images.githubusercontent.com/94136793/141428491-09f658b6-0993-48d8-ab47-066d886ca32b.png)
 
-### GaraPhishik is a python based Phishing Toolkit.
+### GaraPhishik is a Python&HTML based Phishing Toolkit.
 
 It helps you to create server running with templates.
 GaraPhishik has a basic usage
