@@ -5,7 +5,7 @@
 ### GaraPhishik is a Python&HTML based Phishing Toolkit.
 
 It helps you to create server running with templates.
-GaraPhishik has a basic usage
+GaraPhishik has a basic usage.
 
 ## Tested:
 GaraPhishik tested on Kali Linux 2021.3 and Debian 10 and it works without any issue.
@@ -14,8 +14,7 @@ You can run it in Android also (Not tested.)
 ### Installation:
 ```
 Clone the repository.
-UnZip .zip file.
-Run the setup file (It helps you to install APT dependencies.).
+Run the setup file (It helps you to install APT dependencies).
 Run script (as superuser).
 ```
 
